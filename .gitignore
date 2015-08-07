@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+
+config.json
+*.log.txt
+
+metro_pictures/
+.venv/
